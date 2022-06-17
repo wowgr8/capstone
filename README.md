@@ -4,3 +4,7 @@
 * 10:08pm: Began capstone proposal
 * 11:05pm: Committed capstone proposal
 * 11:30pm: Researched TailWind.css for component styling since committing proposal.
+
+
+#### Thursday, 6/17/2022
+* 11:45pm: Research animation for completed goal representation
