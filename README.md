@@ -7,4 +7,5 @@
 
 
 #### Thursday, 6/17/2022
-* 11:45pm: Research animation for completed goal representation
+* 11:45am: Research animation for completed goal representation
+* 12:10pm: Research React Framer Motion/ view tutorial
