@@ -15,7 +15,6 @@ The purpose of Habitually is to help users disolve bad habits and/or build good 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 * React/Create-React-App   
 * JavaScript/JSX
-* React-Redux
 * React-Icons
 * React-Bootstrap
 * Luxon
@@ -27,12 +26,14 @@ The purpose of Habitually is to help users disolve bad habits and/or build good 
 * Animate.css
 * Draw.io/app.diagrams.net
 * Git
+* Firebase
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * A visual representation for goals that were achieved. Perhaps the user will start with a barren garden and a flower will be planted each time a goal is acheived. 
 * An interactive demo where the user has to click to follow along. This demo will have the user create a simple goal, complete the goal, then direct the user towards their garden with a freshly planted flower. Meant to build momentum
 * An API that returns random quotes of encouragement. 
 * Perhaps a section where the user can journal any breakthroughs as they work towards completing a goal. 
+* Refactor and implement to use React-Redux
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * A motivational quotes API
