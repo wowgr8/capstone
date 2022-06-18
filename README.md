@@ -17,3 +17,4 @@
 #### Saturday, 6/18/2022
 * 2:45pm: Research Firebase.
 * 4:00pm: Research NoSQL and Firestore
+* 4:39pm: Practice setting up Firebase with a web app.
