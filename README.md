@@ -23,3 +23,4 @@
 #### Sunday, 6/19/2022
 * 11:00am: Trying out Firestore.
 * 12:45pm: Debugging Firestore. Researching proper configuration needed.
+* 02:25pm: Break from debugging Firestore versions.
