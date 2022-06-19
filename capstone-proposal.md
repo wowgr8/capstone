@@ -5,12 +5,12 @@ Cesar Lopez
 Habitually (subject to change)
 
 ### Project's Purpose or Goal: (What will it do for users?)
-The purpose of Habitually is to help users disolve bad habits and/or build good habits. It will accomplish this by tracking the user's daily progess. 
+The purpose of Habitually is to help users eliminate bad habits and/or build good habits. It will accomplish this by tracking the user's daily progress. 
 
 ### List the absolute minimum features the project requires to meet this purpose or goal:
 * User can create an account
 * Full CRUD functionality so the user can create goals, then update or delete them.
-* User can set a desired timeframe for each goal. (ex. Goal: No drinking for the month of October. Timeframe: 30 days) Each timeframe will have a visual representation.
+* User can set a desired time frame for each goal. (ex. Goal: No drinking for the month of October. Time frame: 30 days) Each time frame will have a visual representation.
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 * React/Create-React-App   
@@ -41,4 +41,4 @@ The purpose of Habitually is to help users disolve bad habits and/or build good 
 * TBA
 
 ### Is there anything else you'd like your instructor to know?
-* Not currently. 
+* Not currently.
