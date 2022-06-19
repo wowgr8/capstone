@@ -21,4 +21,5 @@
 * 6:31pm: Finished practicing adding Firebase to a react app.
 
 #### Sunday, 6/19/2022
-* 11:00pm: Trying out Firestore
+* 11:00am: Trying out Firestore.
+* 12:45pm: Debugging Firestore. Researching proper configuration needed.
