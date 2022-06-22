@@ -24,3 +24,7 @@
 * 11:00am: Trying out Firestore.
 * 12:45pm: Debugging Firestore. Researching proper configuration needed.
 * 02:25pm: Break from debugging Firestore versions.
+
+
+#### Wednesday, 6/22/2022
+* 2:00pm: Researching different React versions.
