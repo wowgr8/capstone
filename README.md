@@ -29,3 +29,4 @@
 #### Wednesday, 6/22/2022
 * 2:00pm: Researching different React versions.
 * 2:50pm: Practice applying new react version with firebase in dummy project.
+* 4:50pm: Break from applying firebase to react app - WIP, many errors.
