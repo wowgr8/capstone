@@ -34,3 +34,4 @@
 
 #### Thursday, 6/23/2022
 * 2:45pm: Practice implementing firestore after finally fixing configuration issue.
+* 4:47pm: Successfully implemented full CRUD via firestore - break.
