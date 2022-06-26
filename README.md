@@ -39,3 +39,4 @@
 #### Sunday, 6/26/2022
 * 1:15pm: Reasearch firebase-ui and firebase-web-react libraries for authentication.
 * 1:40pm: Reasearch deploying app and firebase security rules.
+* 2:15pm: Break from research.
