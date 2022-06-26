@@ -35,3 +35,6 @@
 #### Thursday, 6/23/2022
 * 2:45pm: Practice implementing firestore after finally fixing configuration issue.
 * 4:47pm: Successfully implemented full CRUD via firestore - break.
+
+#### Sunday, 6/26/2022
+* 1:15pm: Reasearch firebase-ui and firebase-web-react libraries for authentication.
