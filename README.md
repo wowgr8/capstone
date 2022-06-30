@@ -44,3 +44,4 @@
 #### Thursday, 6/30/2022
 * 2:40pm: Plan whether Redux is necessary for project of this size.
 * 3:40pm: Research tilesets for garden visual representation.
+* 4:20pm: Research Godot engine for garden visual representation - stretch goal territory.
