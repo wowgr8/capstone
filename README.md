@@ -51,3 +51,4 @@
 * 11:00am: Research tailwind.css
 * 11:50am: Research how to save images over other images in js
 * 12:30pm: Practice use of canvas element in dummy project
+* 01:10pm: Break
