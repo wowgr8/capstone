@@ -49,3 +49,4 @@
 
 #### Friday, 7/01/2022
 * 11:00am: Research tailwind.css
+* 11:50am: Research how to save images over other images in js
