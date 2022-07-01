@@ -46,3 +46,6 @@
 * 3:40pm: Research tilesets for garden visual representation.
 * 4:20pm: Research Godot engine for garden visual representation - stretch goal territory.
 * 5:10pm: Break from research
+
+#### Friday, 7/01/2022
+* 11:00am: Research tailwind.css
