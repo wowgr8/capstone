@@ -56,3 +56,4 @@
 #### Monday, 7/11/2022
  * 07:20pm: Research Zustand as alternative to react-redux
  * 08:10pm: Research react redux toolkit
+ * 09:18pm: Break
