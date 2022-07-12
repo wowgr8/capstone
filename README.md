@@ -52,3 +52,6 @@
 * 11:50am: Research how to save images over other images in js
 * 12:30pm: Practice use of canvas element in dummy project
 * 01:10pm: Break
+
+#### Monday, 7/11/2022
+ * 07:20pm: Research Zustand as alternative to react-redux
