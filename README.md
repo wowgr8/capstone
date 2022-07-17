@@ -62,3 +62,4 @@
  * 09:15am: Research Figma for visual representation.
  * 01:15pm: Break.
  * 02:20pm: Research querying nested data from firestore.
+ * 03:30pm: Plan and apply hooks/state to project heirarchy.
