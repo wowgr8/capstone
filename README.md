@@ -57,3 +57,7 @@
  * 07:20pm: Research Zustand as alternative to react-redux
  * 08:10pm: Research react redux toolkit
  * 09:18pm: Break
+
+ #### Sunday, 7/17/2022
+ * 09:15am: Research Figma for visual representation.
+ 
