@@ -63,3 +63,4 @@
  * 01:15pm: Break.
  * 02:20pm: Research querying nested data from firestore.
  * 03:30pm: Plan and apply hooks/state to project heirarchy.
+ * 05:00pm: Break.
