@@ -65,3 +65,4 @@
  * 03:30pm: Plan and apply hooks/state to project heirarchy.
  * 05:00pm: Break.
  * 06:15pm: Research MaterialUI for card and containers.
+ * 06:52pm: Break.
